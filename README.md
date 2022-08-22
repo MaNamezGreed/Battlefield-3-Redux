@@ -4,6 +4,8 @@ BF3: Redux is a Cheat Engine Table made for vanilla BF3 which adds quality of li
 
 # Usage
 
+Tutorial video and an in depth look of the new features here: https://www.youtube.com/watch?v=SAGKd7LOlA8
+
 
 
 
