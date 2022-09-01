@@ -5,10 +5,15 @@ BF3: Redux is a Cheat Engine Table made for vanilla BF3 which adds quality of li
 ## Current settings you can modify:
 
 Disable Blue Filter
+
 Configure ADS FOV
+
 Configure ADS Sensitivity
+
 Configure Weapon Model ADS FOV
+
 Disable HUD Blue Filter
+
 Disable Vignette
 
 # Usage
