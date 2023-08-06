@@ -24,6 +24,10 @@ Modify HUD Shake
 
 Modify 3rd Person Vehicle FOV
 
+Modify Objective Icon Opacity
+
+Modify FOV Up to 175 from the in-game settings
+
 Hide Crosshair
 
 # Usage
