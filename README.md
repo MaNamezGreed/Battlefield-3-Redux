@@ -50,7 +50,7 @@ Before you download, there are 2 versions of this mod: BF3 Redux and BF3 Redux L
 
 # Usage
 
-
+Step by step tutorial on how everything works: https://youtu.be/PKtrhLh1c1c
 
 
 
