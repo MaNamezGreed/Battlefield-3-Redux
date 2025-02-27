@@ -8,19 +8,19 @@ Before you download, there are 2 versions of this mod: BF3 Redux and BF3 Redux L
  
 ## Settings you can modify:
 
-• Disable Blue Filter
-• Disable HUD Blue Filter
-• Disable Vignette
-• Disable Menu Glitch Effects
-• ADS FOV
-• ADS Mouse Sensitivity
-• Viewmodel FOV
-• Viewmodel ADS FOV
-• 3rd Person Vehicle FOV
-• HUD Shake
-• Objective Icon Opacity
-• Increased FOV Limit from 90 to 175 in the in-game settings
-• Hide Crosshair
+• Disable Blue Filter 
+• Disable HUD Blue Filter 
+• Disable Vignette 
+• Disable Menu Glitch Effects 
+• ADS FOV 
+• ADS Mouse Sensitivity 
+• Viewmodel FOV 
+• Viewmodel ADS FOV 
+• 3rd Person Vehicle FOV 
+• HUD Shake 
+• Objective Icon Opacity 
+• Increased FOV Limit from 90 to 175 in the in-game settings 
+• Hide Crosshair 
 
 ## Settings you can modify on Lite version:
 
