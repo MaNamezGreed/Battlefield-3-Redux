@@ -37,10 +37,15 @@ Before you download, there are 2 versions of this mod: BF3 Redux and BF3 Redux L
 ## Settings you can modify on Lite version:
 
 • Disable Menu Glitch Effects
+
 • ADS FOV
+
 • ADS Mouse Sensitivity
+
 • HUD Shake
+
 • Increased FOV Limit from 90 to 175 in the in-game settings
+
 (Possibly more options could be added in the future, the hard part is figuring out which settings are safe to use)
 
 # Usage
