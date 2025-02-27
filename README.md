@@ -2,7 +2,7 @@
 
 BF3: Redux is a Cheat Engine table made for vanilla BF3 which adds extra options and quality of life changes to make the game feel more modern. The mod is made with multiplayer in mind, meaning not all settings will work in singleplayer.
 
-# $\color{#FF0000}{*VERY IMPORTANT DISCLAIMER!!!*}$
+# *VERY* IMPORTANT DISCLAIMER!!!
 
 There are 2 versions of this mod: BF3 Redux and BF3 Redux Lite. You can ONLY use regular version (BF3 Redux) on servers that have Punkbuster DISABLED, If you use it on PB enabled servers you will most likely get banned. To know if the server has anticheat enabled - hover your mouse on a PB symbol that is located between player count and ping in server browser. Redux Lite version on the other hand is completely safe to use on any type of server but it has less features.
  
